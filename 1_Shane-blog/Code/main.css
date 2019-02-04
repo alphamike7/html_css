@@ -1,0 +1,30 @@
+html {
+    background-color: grey;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.element
+{
+  font-size: 25px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 10px ridge gold;
+}
+
+#primary {
+    color: red;
+}
+
+#secondary {
+    color: #F90101;
+}
